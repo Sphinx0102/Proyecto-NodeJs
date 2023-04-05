@@ -1,3 +1,2 @@
 # Proyecto utilizando NodeJS y JavaScript
-![image](https://user-images.githubusercontent.com/81335500/230079091-9c256a99-69df-4206-bb19-a4c746ab720a.png)
-![image](https://user-images.githubusercontent.com/81335500/230080295-4c1bc14c-9ee0-4a90-8d7d-61b2018eee00.png)
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="65" height="65"/> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="65" height="65"/> </a></p>
