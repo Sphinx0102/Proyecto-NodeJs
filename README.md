@@ -1,7 +1,6 @@
 # Proyecto utilizando NodeJS y JavaScript
 
-##### Proyecto tipo carrito de compra
-
+Shopping Cart-Type Project
 ___
 
 ##### Technologies Implemented
